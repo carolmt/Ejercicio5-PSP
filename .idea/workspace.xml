@@ -4,21 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39c41ee4-a9f1-4e4e-8c3d-dbef7d11cb25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BufferCircular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Consumidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Productor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    <list default="true" id="39c41ee4-a9f1-4e4e-8c3d-dbef7d11cb25" name="Changes" comment="Ejercicio1">
+      <change afterPath="$PROJECT_DIR$/Ejercicio1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio1/src/main/java/LanzadorHilos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio1/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio1/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio1/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio1/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2/src/main/java/Filosofo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2/src/main/java/GestionPalillos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2/src/main/java/LanzadorHilo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BufferCircular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio1/src/main/java/BufferCircular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Consumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio1/src/main/java/Consumidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LanzadorHilos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Productor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio1/src/main/java/Productor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +54,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/carol/IdeaProjects/PSP"
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/carol/IdeaProjects/PSP",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carol\IdeaProjects\Ejercicio5-PSP\Ejercicio1\src\main\java" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="LanzadorHilos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LanzadorHilos" />
@@ -73,6 +89,19 @@
       <option name="presentableId" value="Default" />
       <updated>1698914427944</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio1">
+      <option name="closed" value="true" />
+      <created>1698924742662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698924742663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio1" />
   </component>
 </project>
