@@ -1,0 +1,9 @@
+<archetype>
+  <id>Ejercicio5-PSP</id>
+  <sources>
+    <source>src/LanzadorHilos/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
